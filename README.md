@@ -1,6 +1,6 @@
 # testes
 
-ESTE TÉCNICO DATA SCIENCE
+ESTE TÉCNICO DATA SCIENCE - ESCOLHA DA MODELAGEM - Previsão do preço da estadia (feature ‘price’)
 
 a - Como foi a definição da sua estratégia de modelagem?
 
